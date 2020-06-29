@@ -1,5 +1,6 @@
 # Data Cleaning using Pandas and NumPy
 ![cartoon-machine-learning-class](https://user-images.githubusercontent.com/40051540/86053707-81577880-ba1e-11ea-898f-2cbcd3cdfd05.jpg)
+
 PC: KDNuggets
 
 > Cleaning datasets is an integral part of being a Data Scientist. In fact, a lot of Data Scientists agree that obtaining and cleaning data is 80% of the job as a Data Scientist. It is important to know how to clean a dataset that has a number of Nan rows and columns and inconsistent formatting. Data in the real world is not always well-structured and model-training ready. It is also a very time consuming process, so learning the skills to cleverly use Pandas and NumPy can help you considerbly save time and get going with more intersting stuff!
