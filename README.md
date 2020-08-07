@@ -2,7 +2,7 @@
 ![learning](https://user-images.githubusercontent.com/40051540/89694858-9f46b180-d8d7-11ea-8726-08db6bca0487.jpg)
 <h3>Who am I?</h3>
 <p>
-📊 Hi, I'm Jeffy! Graduate Data Scientist passionate about developing predictive models specifically, that help tackle societal problems. I am a data-driven storyteller characterized with a passion for coding and a zeal to take on challenges.
+📊 Hi, I'm Jeffy, a graduate Data Scientist passionate about developing predictive models specifically, that help tackle societal problems. I am a data-driven storyteller characterized with a passion for coding and a zeal to take on challenges.
 
 🏆 Skilled in data cleansing, wrangling, visualization and machine learning. Worked extensively with machine learning and data mining techniques to infer insights and make predictions in Python.
 
