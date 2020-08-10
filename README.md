@@ -15,8 +15,8 @@ Get in touch: jeffyjac@usc.edu
   
 <h3>Who I do?</h3>
 
-I am a proud Trojan, class of 2019 with a Master’s degree in Computer Science - specialization in Data Science. As much as I understand that data science requires sound knowledge of statistics and programming, which USC has done an excellent job equipping me with, I also believe creativity and risk taking are key characteristics of a good data scientist.
+✌️ I am a proud Trojan, class of 2019 with a Master’s degree in Computer Science - specialization in Data Science from USC. As much as I understand that data science requires sound knowledge of statistics and programming, which USC has done an excellent job equipping me with, I also believe creativity and risk taking are key characteristics of a good data scientist.
 
-I love exploring interesting data on the internet and spend most of my time prepping data because I am convinced that in order to do the “science”, you first need good data. Through my years at University, I have acquired skills in data cleansing, wrangling, visualization and machine learning.
+🔍 I love exploring interesting data on the internet and spend most of my time prepping data because I am convinced that in order to do the “science”, you first need good data. Through my years at University, I have acquired skills in data cleansing, wrangling, visualization and machine learning.
 
-I am a data- driven storyteller and I involve my heart and hands in everything I do. Internships have challenged me to work hard, push boundaries and think outside the box, but most of all, it has taught me the importance of building relationships and helping others achieve the same American dream!
+📌 I am a data- driven storyteller and I involve my heart and hands in everything I do. Internships have challenged me to work hard, push boundaries and think outside the box, but most of all, it has taught me the importance of building relationships and helping others achieve the same American dream!
