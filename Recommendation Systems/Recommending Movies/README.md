@@ -1,4 +1,5 @@
 # Evaluating Recommender Systems
+![noom-peerapong-2uwFEAGUm6E-unsplash](https://user-images.githubusercontent.com/40051540/89828078-2a18ed80-db1e-11ea-871e-2dd2469a2511.jpg)
 ## Accuracy Metrics (Low error is good)
 ### <li> MSE (Mean Square Error) (less is better)</li>
 ### <li> RMSE (Root Mean Square Error) (less is better)</li>
